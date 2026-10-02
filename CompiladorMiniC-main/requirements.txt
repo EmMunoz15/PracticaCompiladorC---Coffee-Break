@@ -1,0 +1,2 @@
+# Solo herramientas de desarrollo. El compilador no tiene dependencias en tiempo de ejecución.
+pytest>=7
